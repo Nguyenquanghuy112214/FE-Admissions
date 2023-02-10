@@ -1,0 +1,23 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="24" cy="24" r="23.6" fill="url(#paint0_linear)" stroke="white" stroke-width="0.8"/>
+<path d="M13.7374 15.102V10.7556C13.7392 10.2902 13.9251 9.84433 14.2544 9.51541C14.5838 9.1865 15.0299 9.00121 15.4953 9H29.6095L37.9977 17.5013V36.6631C37.9959 37.1286 37.81 37.5744 37.4807 37.9033C37.1513 38.2322 36.7052 38.4175 36.2398 38.4187H15.4953C15.0299 38.4175 14.5838 38.2322 14.2544 37.9033C13.9251 37.5744 13.7392 37.1286 13.7374 36.6631V30.1505" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M29.5564 17.7712L38 17.785" stroke="white" stroke-miterlimit="2.61"/>
+<path d="M29.5564 17.6489L29.5887 9.00461" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M17.5716 15.9487L26.0152 15.9648" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M19.1865 18.837L26.465 18.8532" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M22.6031 22.8742L34.5441 22.8881" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M25.8998 26.2171L34.5441 26.2309" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M26.9495 29.606L34.5441 29.6222" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M27.9531 33.3318L34.5441 33.348" stroke="white" stroke-width="1.5" stroke-miterlimit="2.61"/>
+<path d="M14.6174 18.9652L10.7235 22.8591L19.0252 31.1607L22.919 27.2669L14.6174 18.9652Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.23752 19.22L10.9782 16.4862C11.1328 16.3362 11.3396 16.2524 11.555 16.2524C11.7703 16.2524 11.9772 16.3362 12.1317 16.4862L13.7743 18.1265L9.88702 22.023L8.23752 20.3804C8.08537 20.227 8 20.0197 8 19.8036C8 19.5876 8.08537 19.3803 8.23752 19.2269" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.8075 33.9916L24.6102 30.861L23.4106 27.7304L21.4796 29.6614L19.5487 31.5923L22.677 32.792L25.8075 33.9916Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.9148 33.0965L24.0173 31.0664L23.1199 29.0385L21.9872 30.1713L20.8545 31.304L22.8846 32.1991L24.9148 33.0965Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.9147 33.0965L24.0173 31.0664L23.9181 30.8403L22.6585 32.0999L22.8846 32.1991L24.9147 33.0965Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear" x1="7.54286" y1="48" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1E61B1"/>
+<stop offset="1" stop-color="#1581E0"/>
+</linearGradient>
+</defs>
+</svg>

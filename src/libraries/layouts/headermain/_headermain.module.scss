@@ -1,0 +1,104 @@
+@import '../../../styles/Variable/index';
+
+.wrapper {
+  min-height: $height-header;
+  background-image: url(../../../assets/img/bgheader.png);
+  background-color: #ffecb3;
+  background-position: center;
+  @include flex();
+  .header-left {
+    @include flex(unset, start, nowrap);
+    cursor: pointer;
+    .logo {
+      margin-right: 10px;
+      .img-logo {
+        @include mobile {
+          width: 50px;
+        }
+      }
+    }
+
+    .title-header {
+      .main-title {
+        margin: 0;
+        color: #002548;
+        font-size: 14px;
+        line-height: 37px;
+        text-transform: uppercase;
+        font-weight: 700;
+        @include mobile {
+          font-size: 1.3rem;
+          line-height: 24px;
+        }
+      }
+
+      .sub-title {
+        color: $main-color;
+        line-height: 13px;
+        font-size: 18px;
+        text-transform: uppercase;
+        font-weight: 700;
+        @include mobile {
+          font-size: 1.5rem;
+          line-height: 24px;
+        }
+      }
+    }
+  }
+
+  .header-right {
+    @include mobile {
+      display: none;
+    }
+    .support-hotline {
+      @include flex(center, center, nowrap);
+      padding: 6px 10px;
+      border-radius: 5px;
+      margin-top: 11px;
+      margin-left: 20px;
+      border: 1px #f5ac00 solid;
+      color: $main-color;
+      float: right;
+      background-image: linear-gradient(to top, #ffecb3, #fff8e1), linear-gradient(to top, #b71c1c, #ffdb6a);
+      font-weight: 600;
+      transition: all 0.2s linear;
+      cursor: pointer;
+
+      &:hover {
+        transform: scale(1.02);
+      }
+      //   Mobile
+      @include mobile {
+        display: none;
+      }
+      .hotline {
+        margin-right: 10px;
+        .img-hotline {
+        }
+      }
+
+      .time-work {
+        font-size: 1.6rem;
+        text-align: center;
+        line-height: 20px;
+      }
+    }
+  }
+
+  .header-menu {
+    display: none;
+    @include mobile {
+      @include flex(center, end, nowrap);
+    }
+    .hotline-menu {
+      .img-menu {
+        width: 30px;
+        cursor: pointer;
+        transition: all 0.2s linear;
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+    }
+  }
+}
